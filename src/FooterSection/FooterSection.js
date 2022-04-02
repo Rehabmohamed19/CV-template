@@ -25,7 +25,7 @@ class FooterSection extends React.Component {
                 <FontAwesomeIcon icon={faPhoneSquare} /> 01005553713
               </p>
               <p>
-              <FontAwesomeIcon className="me-3" icon={faEnvelope} />rehabmohamed@iti.com
+              <FontAwesomeIcon className="me-3" icon={faEnvelope} />rehabmohamedaziz99@gmail.com
               </p>
             </div>
             <div className="col-4 text-center">
